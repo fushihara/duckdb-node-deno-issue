@@ -1,0 +1,7 @@
+{
+  "lock": false,
+  "imports": {
+    "duckdb": "npm:duckdb@^1.1.3"
+  },
+  "nodeModulesDir": "auto"
+}
